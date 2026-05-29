@@ -1,9 +1,9 @@
 {
-  "name": "Escuro moderno verde canvas",
-  "id": "theme-modern-dark-green-canvas",
+  "name": "Escuro moderno verde",
+  "id": "theme-modern-dark-green",
   "type": "dark",
   "colors": {
-    "canvas-background": "#252525",
+    "background-normal": "#252525",
     "canvas-content-background": "#ffffff",
     "canvas-page-border": "#c6c6c6",
     "canvas-ruler-background": "#2f2f2f",
